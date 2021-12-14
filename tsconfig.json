@@ -7,7 +7,7 @@
       "@/components/*": ["components/*"],
       "@/lib/*": ["lib/*"],
       "@/pages/*": ["pages/*"],
-      "@/styles/*": ["styles/*"]
+      "@/styles/*": ["styles/*"],
     },
     "target": "es6",
     "lib": [
